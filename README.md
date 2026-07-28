@@ -1,5 +1,9 @@
 🤖 Family Assistant Pro
 
+## Motivation
+
+Family Assistant Pro is a modular assistant designed to automate everyday tasks while providing a clean architecture that can later be extended with local Large Language Models.
+
 Ein modularer, lösungsorientierter Alltagsassistent in Python. Das Projekt kombiniert ein benutzerfreundliches grafisches Interface (UI) mit fortschrittlicher Textmustererkennung (Regex) für Erinnerungen und Einkaufslisten. Die Architektur ist von Grund auf so aufgebaut, dass sie als stabiles Fundament für die Anbindung lokaler Large Language Models (LLMs) wie Llama 3.1 dient.
 ✨ Besondere Highlights
 
